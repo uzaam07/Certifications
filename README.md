@@ -134,6 +134,20 @@ This repository will be regularly updated as I complete new courses, certificati
 
 ---
 
+## 🏅 Digital Credentials
+
+I also showcase my verified digital badges and professional credentials on Credly.
+
+<div align="left">
+  
+[![Credly](https://img.shields.io/badge/Credly-View_My_Digital_Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/uzaam-shaad-k)
+
+</div>
+
+Explore my verified digital badges, certifications, and professional credentials.
+
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my Certifications Repository!
