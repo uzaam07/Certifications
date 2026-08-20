@@ -41,8 +41,6 @@ Each certificate is organized into a dedicated category for easy navigation.
 
 📄 [View Certificate](./AI/)
 
----
-
 ### ✨ What Is Generative AI?
 
 **Issuer:** LinkedIn Learning
@@ -72,8 +70,6 @@ Each certificate is organized into a dedicated category for easy navigation.
 
 📄 [View Certificate](./Cloud/)
 
----
-
 ### 🟠 Getting Started with AWS Cloud Essentials
 
 **Issuer:** AWS Training & Certification
@@ -91,6 +87,18 @@ Each certificate is organized into a dedicated category for easy navigation.
 **Skills:** Data Science, Analytics, Data-Driven Decision Making, Business Analytics
 
 📄 [View Certificate](./DS%20%26%20Analytics/)
+
+### 📈 Data Analyst Job Simulation
+**Issuer:** Forage  
+**Skills:** Data Analysis, Data Visualization, Business Insights, Problem Solving
+
+📄 [View Certificate](./DS%20%26%20Analytics/Data%20Analyst%20Job%20Simulation-Certificate.pdf)
+
+### 🔵 IBM Data Fundamentals
+**Issuer:** IBM  
+**Skills:** Data Fundamentals, Data Literacy, Data Analysis, Data Concepts
+
+📄 [View Certificate](./DS%20%26%20Analytics/IBM%20Data-fundamentals.pdf)
 
 ---
 
