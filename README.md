@@ -104,9 +104,9 @@ Each certificate is organized into a dedicated category for easy navigation.
 
 # 🐍 Python Programming
 
-Python-related certifications and learning achievements are available in the dedicated [Python](./Python/) directory.
+Python-related certifications and learning achievements are available in the dedicated Python directory.
 
-📄 [Explore Python Certificates](./Python/)
+📄 [View Certificate](./Python/)
 
 ---
 
